@@ -1,26 +1,23 @@
-Vue 3 Calculator
+# Vue 3 Calculator
 A simple calculator project created with Vue 3 and Tailwind CSS.
 
 Table of Contents
-About
-Features
-Demo
-Getting Started
-Usage
-Contributing
-License
-About
+# About
+# Features
+# Getting Started
+# Usage
+# About
 This project is a simple calculator application built using Vue 3 and Tailwind CSS. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
-Addition
-Subtraction
-Multiplication
-Division
-Demo
+# 1) Features
+# 2) Addition
+# 3) Subtraction
+# 4) Multiplication
+# 5) Division
+# 6) Demo
 You can see a live demo of the project here (add link to live demo if available).
 
-Getting Started
+# Getting Started
 To get a local copy up and running follow these simple steps.
 
 Prerequisites
