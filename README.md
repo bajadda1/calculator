@@ -1,4 +1,5 @@
-# Vue 3 Calculator
+# <span style="color:#3498db;">Vue 3</span> Calculator
+
 A simple calculator project created with Vue 3 and Tailwind CSS.
 
 Table of Contents
