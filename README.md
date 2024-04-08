@@ -17,8 +17,8 @@ You can see a live demo of the project here (add link to live demo if available)
 # 4- Getting Started
 To get a local copy up and running follow these simple steps.
 # 4-1 Prerequisites
-=>Node.js
-=>npm (or yarn)
+* Node.js
+* npm (or yarn)
 # 4-2 Installation
 * 1)Clone the repo
   * git clone https://github.com/your_username_/project_name.git    
