@@ -1,7 +1,53 @@
-# Vue 3 + Vite
+Vue 3 Calculator
+A simple calculator project created with Vue 3 and Tailwind CSS.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Table of Contents
+About
+Features
+Demo
+Getting Started
+Usage
+Contributing
+License
+About
+This project is a simple calculator application built using Vue 3 and Tailwind CSS. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Recommended IDE Setup
+Features
+Addition
+Subtraction
+Multiplication
+Division
+Demo
+You can see a live demo of the project here (add link to live demo if available).
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Getting Started
+To get a local copy up and running follow these simple steps.
+
+Prerequisites
+Node.js
+npm (or yarn)
+Installation
+Clone the repo
+sh
+Copy code
+git clone https://github.com/your_username_/project_name.git
+Install NPM packages
+sh
+Copy code
+npm install
+Usage
+Start the development server
+sh
+Copy code
+npm run dev
+Open your browser and navigate to http://localhost:3000 to view the application.
+Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+License
+Distributed under the MIT License. See LICENSE for more information.
